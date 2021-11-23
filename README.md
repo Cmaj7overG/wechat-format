@@ -3,6 +3,7 @@
 ## 简介
 
 转化 Markdown 到给微信特制的 HTML
+- fork自  https://github.com/zkqiang/wechat-mdeditor
 
 - 使用在线版： https://cmaj7overg.github.io/
 
