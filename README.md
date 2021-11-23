@@ -4,7 +4,7 @@
 
 转化 Markdown 到给微信特制的 HTML
 
-- 使用在线版： https://lab.lyric.im/wxformat
+- 使用在线版： Cmaj7overG.github.io
 
 ## 优点
 
